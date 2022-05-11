@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055129111074",
+    "project_id": "lista-compra-bdd52",
+    "storage_bucket": "lista-compra-bdd52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055129111074:android:f37f8c9c613173a98e187b",
+        "android_client_info": {
+          "package_name": "com.example.listacompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055129111074-3kalpnai8qn7sg2bme8r1hbj30glv1il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIfbF4mVxuRsPMA9w4vZp7Dxly18EWBwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055129111074-3kalpnai8qn7sg2bme8r1hbj30glv1il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
